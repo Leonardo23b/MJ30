@@ -1,4 +1,4 @@
-site_name: Primera página web
+site_name: Maria Jose
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
